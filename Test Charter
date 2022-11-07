@@ -1,0 +1,47 @@
+TEST CHARTER 001:
+CHARTER	: Exploration on Wikipedia for Serach Module
+Url		: https://en.wikipedia.org/w/index.php?search
+Time 		: 11.07.2022
+Tester 	: Kadir Yaylagul
+Estimated time : 20 dk
+Goals:
+* Verify the search box is enabled
+* Verify that user can enter any words or sentences in search box
+* Verify user can use any special character
+* Verify user can use keyboard enter
+* Verify user can make a search in different languages
+* Verify search box is giving an alert for nonsensical query
+* Verify search box is estimating the word
+* Verify search box is showing a lot of word related with user’s query
+
+Advices:
+There can be only one search input on the page.
+
+TEST CHARTER 002:
+CHARTER	: Exploration on Wikipedia for Serach Module for Advanced Search
+Url		: https://en.wikipedia.org/w/index.php?search
+Time 		: 11.07.2022
+Tester 		: Kadir Yaylagul
+Estimated time : 30 dk
+
+
+* Verify the search box is enabled and advanced search option is available
+* Verify that user can enter any words or sentences in advanced search input
+* Verify user can use any special character in advanced search input
+* Verify user can use keyboard enter in advanced search input
+* Verify user can make a search in different languages in advanced search input
+* Verify search box is giving an alert for nonsensical query in advanced search input
+* Verify search box is estimating the word in advanced search input
+* Verify that  is not showing a lot of word related with user’s query in advanced search input
+* Verify user can restrict the work or sentence for search
+* Verify user can search only article related with query
+
+Advices:
+There can be some different options to make detail search in searcbox
+Advanced search option on the search page could be more effective with simplifications that can be made
+
+
+
+
+
+

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="12" time="10.282">
+    <testcase classname="User should be able to order request" name="Order Post Request" time="4.11">
+        <system-out>
+            <![CDATA[Given The user creates a store information that want to register............passed
+Then The User register a new store..........................................passed
+And The User verify the actual and expected result for store................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="User should be able to order request" name="Order Get Request" time="0.915">
+        <system-out>
+            <![CDATA[Given The User define get request for store section with expected data......passed
+Then The User records the data with get request for store...................passed
+And The User compare to expected and actual data for store..................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="User should be able to order request" name="Order Delete Request" time="0.78">
+        <system-out>
+            <![CDATA[Given The User define delete request for store section with expected data...passed
+Then The User delete the expected data for store............................passed
+And The User verify the response for store..................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="User should be able to order request" name="Order Delete Request negative" time="0.82">
+        <system-out>
+            <![CDATA[Given The User define an expected data for negative delete request for store.passed
+Then The User delete data for negative request for store....................passed
+And The User verify the negative response for store.........................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="User should be able to request for pet information" name="Pet Post Request" time="0.792">
+        <system-out>
+            <![CDATA[Given The user creates a pet information that want to register..............passed
+Then The User register a new pet............................................passed
+And The User verify the actual and expected result for pet..................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="User should be able to request for pet information" name="Pet Get Request" time="0.78">
+        <system-out>
+            <![CDATA[Given The User define get request for a pet with expected data..............passed
+Then The User records the data with get request for pet.....................passed
+And The User compare to expected and actual data for pet....................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="User should be able to request for pet information" name="Pet Delete Request" time="0.772">
+        <system-out>
+            <![CDATA[Given The User define delete request for a pet with expected data...........passed
+Then The User delete the expected data for pet..............................passed
+And The User verify the response for pet....................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="User should be able to request for pet information" name="Pet Delete Request negative" time="0.772">
+        <system-out>
+            <![CDATA[Given The User define an expected data for negative delete request for pet..passed
+Then The User delete data for negative request for pet......................passed
+And The User verify the negative response for pet...........................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="User should be able to request for user information" name="User Post Request" time="0.004">
+        <system-out>
+            <![CDATA[Given The user creates a user information that want to register.............passed
+Then The User register a new user...........................................passed
+And The User verify the actual and expected result for user.................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="User should be able to request for user information" name="User Get Request" time="0">
+        <system-out>
+            <![CDATA[Given The User define get request for for User section with expected data...passed
+Then The User records the data with get request for user....................passed
+And The User compare to expected and actual data for user...................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="User should be able to request for user information" name="User Delete Request" time="0.001">
+        <system-out>
+            <![CDATA[Given The User define delete request for user section with expected data....passed
+Then The User delete the expected data for user.............................passed
+And The User verify the response for user...................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="User should be able to request for user information" name="User Delete Request negative" time="0.005">
+        <system-out>
+            <![CDATA[Given The User define an expected data for negative delete request for user.passed
+Then The User delete data for negative request for user.....................passed
+And The User verify the negative response for user..........................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
